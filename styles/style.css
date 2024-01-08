@@ -100,6 +100,15 @@ ol {
   margin-block-end: 30px;
 }
 
+.content__card-link {
+  text-decoration: none;
+  color: #FFF;
+}
+
+.content__video-card-description {
+  line-height: 16.2px;
+}
+
 .content__video-card {
   display: flex;
   flex-direction: row;
